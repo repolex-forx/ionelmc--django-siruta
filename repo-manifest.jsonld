@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/django-siruta/commit/3ec1db41d37606206367d3dadd38dcc99c8f66a4",
       "git:hexsha": "3ec1db41d37606206367d3dadd38dcc99c8f66a4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/django-siruta/commit/494211b4509cee656ac2a2eeefbeb8f463e19fa2",
