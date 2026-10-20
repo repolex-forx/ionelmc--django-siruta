@@ -1,0 +1,11 @@
+{
+  "org": "ionelmc",
+  "repo": "django-siruta",
+  "versions": [
+    {
+      "commit": "3ec1db41d37606206367d3dadd38dcc99c8f66a4",
+      "tag": "",
+      "parsed_at": "2026-10-20T20:05:26.661200+00:00"
+    }
+  ]
+}
